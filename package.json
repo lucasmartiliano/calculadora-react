@@ -2,6 +2,7 @@
   "name": "calculadora-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lucasmartiliano.github.io/calculadora-react/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -11,8 +12,7 @@
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.19",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://lucasmartiliano.github.io/calculadora-react/"
+    "web-vitals": "^2.1.4"
   },
 "scripts": {
   "predeploy": "npm run build",
