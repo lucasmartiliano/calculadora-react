@@ -1,7 +1,7 @@
 {
   "name": "calculadora-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://lucasmartiliano.github.io/calculadora-react",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
